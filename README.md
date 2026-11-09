@@ -1,1 +1,1 @@
-project-student_management
+student-search
